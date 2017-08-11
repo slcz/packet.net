@@ -1,0 +1,3 @@
+# sjc1 : san jose
+# ewr1 : new york
+./proj.py --createhost --project education --host $1 --plan baremetal_$2 --os ubuntu_17_04 --facility $3
